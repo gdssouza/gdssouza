@@ -11,8 +11,9 @@ Welcome to my github page! I'm a geophysics undergraduate student and teaching a
 
 ### 👯 Follow me
 
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://www.linkedin.com/in/gdssouza/)
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gdssouza)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdssouza/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gdssouza@id.uff.br)
 
 <!--
 **gdssouza/gdssouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
