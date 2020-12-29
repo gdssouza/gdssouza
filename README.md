@@ -1,4 +1,23 @@
-### Hi there 👋
+## 👋 Hello! I'm Gustavo
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
+Welcome to my github page! I'm a geophysics undergraduate student and teaching assistant in computer programming discipline at Universidade Federal Fluminense (Rio de Janeiro/Brazil). I’m currently learning about data science and machine learning.
+
+### ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gdssouza">
+</p>
+
+### 👯 Follow me
+
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://www.linkedin.com/in/gdssouza/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdssouza/)
 
 <!--
 **gdssouza/gdssouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
