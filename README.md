@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Gustavo
 
-Welcome to my github page! I'm a geophysics undergraduate student and teaching assistant in computer programming discipline at Universidade Federal Fluminense (Rio de Janeiro/Brazil). I’m currently learning about data science and machine learning.
+Welcome to my github page! I'm a geophysics undergraduate student and teaching assistant in computer programming discipline at Universidade Federal Fluminense (Rio de Janeiro/Brazil). I’m currently learning about data science.
 
 ### ⭐ GitHub Stats
 
