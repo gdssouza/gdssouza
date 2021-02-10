@@ -5,8 +5,8 @@ Welcome to my github page! I'm a geophysics undergraduate student and teaching a
 ### ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gdssouza">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza&show_icons=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gdssouza&langs_count=10&theme=tokyonight">
 </p>
 
 ### 👯 Follow me
