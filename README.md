@@ -5,9 +5,9 @@ Welcome to my github page! I'm a geophysics undergraduate student and teaching a
 ### ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza&show_icons=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza&show_icons=true&theme=blue-green">
   <!-- a API "Most Used Languages" não calcula de forma justa o uso do Jupyter. Então, como os autores ainda não trouxeram uma solução até o momento, estou excluindo do cálculo os repositórios com arquivos .ipynb -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gdssouza&langs_count=10&theme=tokyonight&exclude_repo=VSS_prediction,IGRF_n_diurnalVariation">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gdssouza&langs_count=10&theme=blue-green&exclude_repo=VSS_prediction,IGRF_n_diurnalVariation">
 </p>
 
 ### 👯 Follow me
