@@ -1,18 +1,25 @@
-## 👋 Hello! I'm Gustavo
+## **👋 Hello! I'm Gustavo**
 
-Welcome to my github page! I'm a geophysics undergraduate student and teaching assistant in computer programming discipline at Universidade Federal Fluminense (Rio de Janeiro/Brazil). I’m currently learning about data science and back-end development.
+Welcome to my github page! I'm a geophysics undergraduate student and teaching assistant in computer programming discipline at Universidade Federal Fluminense (Rio de Janeiro/Brazil). 
 
-### ⭐ GitHub Stats
+- 🌱 I’m currently learning about data science and back-end development.
+- 👯 I’m looking to collaborate with geoscientific projects
+
+### **⭐ GitHub Stats**
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza&show_icons=true&theme=blue-green">
-  <!-- a API "Most Used Languages" não calcula de forma justa o uso do Jupyter. Então, como os autores ainda não trouxeram uma solução até o momento, estou excluindo do cálculo os repositórios com arquivos .ipynb -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gdssouza&langs_count=10&theme=blue-green&exclude_repo=VSS_prediction,IGRF_n_diurnalVariation">
 </p>
 
-### 👯 Follow me
+### **Top Used Languages**
 
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gdssouza)
+<code><img height="30" src="assets/python_icon.png"></code> | <code><img height="30" src="assets/sql_icon.png"></code> | <code><img height="30" src="assets/c_icon.png"></code>
+--- | --- | ---
+
+
+### **👯 How to reach me**
+
 [![LinkedIn](https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdssouza/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gdssouza@id.uff.br)
 
