@@ -2,21 +2,18 @@
 
 Welcome to my github page! I'm a geophysics undergraduate student and teaching assistant in computer programming discipline at Universidade Federal Fluminense (Rio de Janeiro/Brazil). 
 
-- 🌱 I’m currently learning about data science and back-end development.
+- 🔭 I'm interested in data science and back-end development
+- 🌱 I’m currently learning ```SQL```
 - 👯 I’m looking to collaborate with geoscientific projects
 
 ### **⭐ GitHub Stats**
 
+<img src = "https://github-readme-stats.vercel.app/api?username=gdssouza&show_icons=true&theme=blue-green">
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza&show_icons=true&theme=blue-green">
-</p>
-
-### **Top Used Languages**
+### **⚡ My Languages**
 
 <code><img height="30" src="assets/python_icon.png"></code> | <code><img height="30" src="assets/sql_icon.png"></code> | <code><img height="30" src="assets/c_icon.png"></code>
 --- | --- | ---
-
 
 ### **👯 How to reach me**
 
