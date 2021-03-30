@@ -3,7 +3,7 @@
 Welcome to my github page! I'm a geophysics undergraduate student and teaching assistant in computer programming discipline at Universidade Federal Fluminense (Rio de Janeiro/Brazil). 
 
 - 🔭 I'm interested in data science and back-end development
-- 🌱 I’m currently learning ```SQL```
+- 🌱 I’m currently learning ```SQL``` with [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/276482).
 - 👯 I’m looking to collaborate with geoscientific projects
 
 ### **⭐ GitHub Stats**
