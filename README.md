@@ -21,12 +21,6 @@ Welcome to my github page! I'm a undergraduate geophysics student and teaching a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdssouza&repo=vss-prediction" />
 </a>
 
-### * **💻 Programing Logic**
-
-<a href="https://github.com/gdssouza/sorting-algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdssouza&repo=sorting-algorithms" />
-</a>
-
 ### * **📈 Modeling and Simulation**
 
 <a href="https://github.com/gdssouza/igrf-n-diurnal-variation">
