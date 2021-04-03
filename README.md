@@ -15,19 +15,30 @@ Welcome to my github page! I'm a undergraduate geophysics student and teaching a
 <code><img height="30" src="assets/python_icon.png"></code> | <code><img height="30" src="assets/sql_icon.png"></code> | <code><img height="30" src="assets/c_icon.png"></code>
 --- | --- | ---
 
-### **⚡ My Favorite Projects**
+### **🔝 My Favorite Projects**
 
-#### **💾 Data Science**
+#### * **💾 Data Science**
 
 <a href="https://github.com/gdssouza/vss-prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdssouza&repo=vss-prediction" />
 </a>
 
-#### **💻 Programing Logic**
+#### * **💻 Programing Logic**
 
 <a href="https://github.com/gdssouza/sorting-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdssouza&repo=sorting-algorithms" />
 </a>
+
+#### **📈 Modeling and Simulation**
+
+<a href="https://github.com/gdssouza/igrf-n-diurnal-variation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdssouza&repo=igrf-n-diurnal-variation" />
+</a>
+
+#### **📈 Seismic**
+*  coming soon
+### **📃 Tutorials**
+*  coming soon
 
 ### **👯 How to reach me**
 
