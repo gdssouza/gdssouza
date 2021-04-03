@@ -15,7 +15,7 @@ Welcome to my github page! I'm a geophysics undergraduate student and teaching a
 <code><img height="30" src="assets/python_icon.png"></code> | <code><img height="30" src="assets/sql_icon.png"></code> | <code><img height="30" src="assets/c_icon.png"></code>
 --- | --- | ---
 
-### **⚡ My Favorite Projects  **
+### **⚡ My Favorite Projects**
 
 #### **💾 Data Science**
 
