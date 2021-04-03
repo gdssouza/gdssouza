@@ -15,6 +15,20 @@ Welcome to my github page! I'm a geophysics undergraduate student and teaching a
 <code><img height="30" src="assets/python_icon.png"></code> | <code><img height="30" src="assets/sql_icon.png"></code> | <code><img height="30" src="assets/c_icon.png"></code>
 --- | --- | ---
 
+### **⚡ My Favorite Projects  **
+
+#### **💾 Data Science**
+
+<a href="https://github.com/gdssouza/vss-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdssouza&repo=vss-prediction" />
+</a>
+
+#### **💻 Programing Logic**
+
+<a href="https://github.com/gdssouza/sorting-algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdssouza&repo=sorting-algorithms" />
+</a>
+
 ### **👯 How to reach me**
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdssouza/)
