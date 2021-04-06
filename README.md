@@ -30,9 +30,6 @@ Welcome to my github page! I'm a undergraduate geophysics student and teaching a
 ### **📈 Seismic**
 *  coming soon
 
-### **📃 Tutorials**
-*  coming soon
-
 ### **👯 How to reach me**
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdssouza/)
