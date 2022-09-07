@@ -1,9 +1,6 @@
 ## **👋 Hello! I'm Gustavo**
 
-Welcome to my github page! I'm a undergraduate geophysics student at Universidade Federal Fluminense (Rio de Janeiro/Brazil). 
-
-- 🔭 I'm interested in data science.
-- 👯 I’m looking to collaborate with geoscientific projects
+Welcome to my github page! I'm a undergraduate geophysics student at Universidade Federal Fluminense (Rio de Janeiro/Brazil). I'm interested in data science.
 
 ### **⭐ GitHub Stats**
 
