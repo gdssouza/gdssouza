@@ -1,10 +1,16 @@
 ## **👋 Hello! I'm Gustavo**
 
-Welcome to my github page! I'm a undergraduate geophysics student at Universidade Federal Fluminense (Rio de Janeiro/Brazil). I'm interested in data science.
+Welcome to my github page! 
 
+- 🌍 I am a geoscientist with a background in geophysics
+- 🔍 I'm interested in data science for reservoir characterization
+- 💼 I have experience with seismic interpretation, seismic inversion, geomodeling and machine learning models
+
+<!--
 ### **⭐ GitHub Stats**
 
 <img src = "https://github-readme-stats.vercel.app/api?username=gdssouza&show_icons=true&theme=blue-green">
+-->
 
 ### **⚡ My Languages**
 
