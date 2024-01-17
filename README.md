@@ -2,7 +2,7 @@
 
 Welcome to my github page! 
 
-- 🌍 I am a geoscientist with a background in geophysics
+- 🌍 I'm a geoscientist with a background in geophysics
 - 🔍 I'm interested in data science for reservoir characterization
 - 💼 I have experience with seismic interpretation, seismic inversion, geomodeling and machine learning models
 
